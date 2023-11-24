@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfiannurrizky&label=Profile%20views&color=0e75b6&style=flat" alt="alfiannurrizky" /> </p>
 
-- 🌱 I’m currently learning **Nest js**
+- 🌱 I’m currently learning **Nest js and everything about backend engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alfiannurrizky](https://github.com/alfiannurrizky)
 
